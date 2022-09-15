@@ -17,3 +17,5 @@ App is deployed by Vercel: https://tik-tok-clone-gold.vercel.app/
 # App Preview
 
 ![Preview Image](https://github.com/GrgZiv/TikTok_clone/blob/main/TikTokClone.jpg)
+
+This project was originally made by JavaScriptMastery: https://www.youtube.com/c/JavaScriptMastery
