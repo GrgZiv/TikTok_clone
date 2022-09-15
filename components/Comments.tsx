@@ -18,9 +18,9 @@ interface IProps {
 
 interface IComment {
   comment: string;
-  lenght?: number;
+  length?: number;
   _key: string;
-  postedBy: { _ref: string; _id: string };
+  postedBy: { _ref?: string; _id?: string };
 }
 
 const Comments = ({
